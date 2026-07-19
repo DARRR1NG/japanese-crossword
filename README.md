@@ -22,6 +22,6 @@ Level, отвечающий за хранение данных об уровне
 2. `japanese_crossword.cbp` - файл проекта Code::Blocks, хранение настроек IDE.
 
 ## :heavy_check_mark: Инструкция по запуску
-Скачать последнюю версию приложения в 'Releases' и запустить его.
+Скачать последнюю версию приложения в <a href='https://github.com/DARRR1NG/japanese-crossword/releases/tag/v1.0'>'Releases'</a> и запустить его.
 
 
